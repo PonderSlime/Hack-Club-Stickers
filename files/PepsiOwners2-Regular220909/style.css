@@ -1,9 +1,0 @@
-@font-face {
-    font-family: 'Pepsi Owners';
-    src: local('Pepsi Owners Regular220909'), local('Pepsi-Owners-Regular220909'),
-        url('PepsiOwners2-Regular220909.woff2') format('woff2'),
-        url('PepsiOwners2-Regular220909.woff') format('woff'),
-        url('PepsiOwners2-Regular220909.ttf') format('truetype');
-    font-weight: 400;
-    font-style: normal;
-  }
