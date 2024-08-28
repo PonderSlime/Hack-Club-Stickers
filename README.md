@@ -19,4 +19,4 @@ You can find my designs here:
 
 Feel free to use them, as long as you give credit!
 
-[![Figma Stickers!](https://github.com/user-attachments/assets/7b471393-5ff1-4f84-a229-828e7bf22502)](https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FojJoBT67nQ8yRSIvDwEdD4%2FHack-Club-Sticker-Designs%3Fnode-id%3D48-3%26t%3DHuag9YB03dWSpv30-1)
+![Figma Stickers!](https://github.com/user-attachments/assets/7b471393-5ff1-4f84-a229-828e7bf22502)
